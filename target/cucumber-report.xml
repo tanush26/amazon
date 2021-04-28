@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="60.233724">
+<testcase classname="User able to click checkout button and payment page should be displayed" name="checkout" time="60.233724">
+<system-out><![CDATA[Given User visit Amazon main page...........................................passed
+When User search for "iphone"...............................................passed
+Then the search results are displayed.......................................passed
+And the first result has the word "iphone" in it............................passed
+Given User click Add to Cart the searched item..............................passed
+When User click proceed to checkout button..................................passed
+Then payment page should be displayed.......................................passed
+]]></system-out>
+</testcase>
+</testsuite>
