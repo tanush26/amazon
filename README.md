@@ -7,7 +7,7 @@ Framework Used: Page Object Model(BDD Cucumber)
 
 ## Steps to execute the tests 
 [https://www.toolsqa.com/git/git-clone/]
-clone the repository amazon into local drive and run in intellIJ editor using Firefox version 43 or Google Chrome 76.
+clone the repository amazon into local drive and run in intellIJ editor using Firefox version 43 or Google Chrome version 76.
 
 ## to run code through terminal
 Open cmd and traverse to the root folder of your maven project. Paste and execute the copied command and your project will run successfully.
