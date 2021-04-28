@@ -16,3 +16,8 @@ Go to project :
 open cmd.
 cd c:/project.
 mvn clean install.
+
+##Estimated time 
+For creating Project Amazon and designing FrameWork I took 3-4 Hours.
+
+
