@@ -10,7 +10,7 @@ Framework Used: Page Object Model(BDD Cucumber)
 clone the repository amazon into local drive and run in intelliJ editor using Firefox version 43 or Google Chrome version 76.
 
 ## Steps to run code through terminal
-Open cmd and traverse to the root folder of your maven project. Paste and execute the copied command and your project will run successfully.
+Open cmd and traverse to the root folder of maven project. Paste and execute the copied command and project will run successfully.
 ...
 Go to project :
 open cmd.
